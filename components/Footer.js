@@ -7,8 +7,8 @@ const Footer = () => {
                 <a href="https://github.com/NJ-jain" target="_blank" rel="noopener noreferrer">
                     <i className="fa-brands fa-github"></i>
                 </a>
-                <a href="https://www.instagram.com/bro.naman662/" target="_blank" rel="noopener noreferrer">
-                    Naman Jain
+                <a href="https://www.instagram.com/mansitiwari03?igsh=ZXdhZHE3OTd6MGJ6" target="_blank" rel="noopener noreferrer">
+                    Mansi Tiwari
                 </a>
                 | <span className="far fa-copyright"></span> 2022 All Rights Reserved. Privacy Policy
             </span>
